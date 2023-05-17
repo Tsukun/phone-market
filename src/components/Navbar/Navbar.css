@@ -1,5 +1,5 @@
 .container {
-  border-bottom: 1px solid;
+  border-bottom: 1px solid #a6a5a9;
 }
 .header {
   max-width: 1110px;
@@ -41,5 +41,4 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 0px 1.71% 0px 0px;
 }
